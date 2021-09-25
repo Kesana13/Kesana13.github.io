@@ -1,0 +1,55 @@
+.promo {
+    min-height: 800px;
+    background: url('../img/bg_promo.jpg') center center/cover no-repeat;
+    padding: 40px 0 50px 0;
+}
+
+.promo .promo_title {
+    font-size: 50px;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+}
+
+.promo .promo_subtitle { 
+    font-size: 25px;
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+}
+
+
+.reviews {
+    min-height: 500px;
+}
+
+.reviews .reviews_title {
+    margin-top: 50px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #000;
+    text-align: center;
+}
+
+.card img {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.carousel-item img {
+    display: block;
+    width: 650px;
+    height: 700px;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.reviews .reviews_divider {
+    width: 217px;
+    height: 4px;
+    background-color: #f9bf3b;
+    margin: 0 auto;
+    margin-top: 18px;
+}
